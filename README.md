@@ -1,4 +1,5 @@
-# 🌟 ForoHub 🌟
+🌟 ForoHub 🌟
+# ![Badge-Spring](https://github.com/user-attachments/assets/65298ec3-048b-4166-ab66-70929be32f48)
 
 ¡Bienvenido a ForoHub! Esta API te permite realizar diversas solicitudes REST:
 
