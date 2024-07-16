@@ -58,6 +58,7 @@ Al crear el proyecto con Spring Initializr, se utilizaron las siguientes depende
 
 - **Eliminar un tópico (lógico)**
    - `DELETE /topico/eliminar/{id}`
+ 
 
 ### Autenticación (`autenticacion-controller`)
 
@@ -65,3 +66,6 @@ Al crear el proyecto con Spring Initializr, se utilizaron las siguientes depende
    - `POST /login`
    - Body: `DatosAutenticacionUsuario`
    - Respuesta: `DatosJWTtoken`
+
+### Diagrama de la base de datos MySQL:
+![image](https://github.com/user-attachments/assets/7ec6c4b6-632b-4ccc-bcd8-c69e3c428d2f)
